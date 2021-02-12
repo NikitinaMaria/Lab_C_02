@@ -19,6 +19,8 @@ int main()
     cin >> m;
 
     int x;
+    
+    // Checking if there are solutions
     int check = 0;
 
     for (x = 0; x <= m; x++) {
